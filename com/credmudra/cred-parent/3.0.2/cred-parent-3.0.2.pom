@@ -13,6 +13,7 @@
     <groupId>com.credmudra</groupId>
     <artifactId>cred-parent</artifactId>
     <version>3.0.2</version>
+    <packaging>pom</packaging>
 
     <!-- MORE PROJECT INFORMATION -->
     <name>cred-parent</name>
