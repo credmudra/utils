@@ -3,10 +3,10 @@
   <groupId>com.credmudra</groupId>
   <artifactId>cred-utils</artifactId>
   <versioning>
-    <release>3.0.2</release>
+    <release>3.0.3</release>
     <versions>
-      <version>3.0.2</version>
+      <version>3.0.3</version>
     </versions>
-    <lastUpdated>20230208123323</lastUpdated>
+    <lastUpdated>20240722064904</lastUpdated>
   </versioning>
 </metadata>
